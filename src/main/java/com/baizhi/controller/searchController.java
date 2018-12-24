@@ -97,4 +97,8 @@ public class searchController {
         indexReader.close();
         return "findAll";
     }
+
+    public void t(){
+
+    }
 }
